@@ -1,0 +1,6 @@
+{
+    "makefile.configureOnOpen": true,
+    "python-envs.pythonProjects": [],
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python.defaultInterpreterPath": "/mnt/c/Users/Lucas e Bia/Documentos/bootcamp_santander/minha_primeira_API/venv/bin/python"
+}
